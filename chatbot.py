@@ -5,7 +5,7 @@ import pyttsx3
 import os
 
 # Set up Google Gemini API Key
-genai.configure(api_key="AIzaSyDavtPM9Ys9WJVn23L3xGnKUT0eTa5Ogko")
+genai.configure(api_key="Your_api_key")
 
 # Text-to-Speech (TTS) Engine
 engine = pyttsx3.init()
